@@ -76,10 +76,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Assets\Scripts\GetMyIp.cs" />
     <Compile Include="Assets\Assets\Scripts\NavAgence.cs" />
     <Compile Include="Assets\Assets\Scripts\RoleMove.cs" />
     <Compile Include="Assets\Assets\Scripts\RollBoard.cs" />
     <Compile Include="Assets\Assets\Scripts\SendPlayerReturn.cs" />
+    <Compile Include="Assets\Assets\Scripts\ShopBag.cs" />
+    <Compile Include="Assets\MouseTest.cs" />
     <Compile Include="Assets\ShaderForge\Example Assets\Scripts\EditorLabel.cs" />
     <Compile Include="Assets\ShaderForge\Example Assets\Scripts\EnableCameraDepthInForward.cs" />
     <Compile Include="Assets\ShaderForge\Example Assets\Scripts\SoftNormalsToVertexColor.cs" />
